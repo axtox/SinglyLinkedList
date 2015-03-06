@@ -1,7 +1,9 @@
 # SinglyLinkedList
 ### Singly Linked List class and Student class for exercise
-Class for implementation of Single LInked List. 
+Created: 29 September 2014
 
+Class for implementation of Single LInked List. 
+<br>
 _NOTE: Student class is simple exercise_
 <br>
 <br>
